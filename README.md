@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Alejandro and I'm currently a Cybersecurity Engineering Student at URJC.
+I'm v3ruxz (Alejandro) and I'm a Cybersecurity Engineer.
 
 
 # 💻 Tech Stack:
